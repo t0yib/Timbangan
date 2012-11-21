@@ -10,6 +10,14 @@ Begin VB.Form Form1
    ScaleHeight     =   4530
    ScaleWidth      =   8940
    StartUpPosition =   3  'Windows Default
+   Begin VB.CommandButton Hafiz 
+      Caption         =   "Command4"
+      Height          =   855
+      Left            =   3840
+      TabIndex        =   9
+      Top             =   960
+      Width           =   2415
+   End
    Begin VB.Timer Timer1 
       Enabled         =   0   'False
       Left            =   7680
